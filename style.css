@@ -109,7 +109,7 @@ img {
     border-radius: 50%;
     max-width: 30%;
     display: inline;
-    padding-top: 23px;
+    padding-top: 27px;
 }
 
 
@@ -117,7 +117,7 @@ img {
     background-color: hsl(0, 0%, 8%);
     border-radius: 3%;
     text-align: center;
-    padding: 25px 35px;
+    padding: 30px 35px;
 }
 
 h2 {

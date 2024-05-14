@@ -14,9 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -53,13 +51,6 @@ I played with and learned more about the different CSS display properties.
 ## Author
 
 - Website - [Nichole McGrew](https://nicholemcgrew.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@nicholemcgrew](https://www.frontendmentor.io/profile/nicholemcgrew)
+- Twitter - [@NicholeMcgrew](https://twitter.com/nicholemcgrew)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
